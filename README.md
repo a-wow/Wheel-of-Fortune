@@ -1,7 +1,7 @@
 # _Wheel-of-Fortune_
 Wheel of Fortune Trial Code for World of Warcraft Game Servers
 
-<img src="https://epicore.su/fortune.jpg"  height="300px">
+<img src="https://extazy-gaming.com/fortune.jpg"  height="300px">
 
 ## Information
 
